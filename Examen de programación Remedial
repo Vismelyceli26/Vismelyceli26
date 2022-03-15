@@ -16,4 +16,5 @@ printf("introduce numero 5: ");
 scanf("%d",&num5);
 printf("\nel resultado de la usma es:%d",num1+num2+num3+num4+num5);
 getch;
-return 0;}
+return 0;
+}
